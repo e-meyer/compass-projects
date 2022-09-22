@@ -90,3 +90,10 @@ No terminal do sistema operacional, através de algumas IDEs como IntelliJ, VSCo
 
 Uma variável ```final``` não é realmente um tipo de dado, ela só identifica que a variável, quando assumir algum valor, este não poderá mais ser alterado até o final da execução. 
 Já uma o tipo ```var```, podemos dizer que é uma variável de qualquer tipo de dado, seja int, string, double, etc.
+
+### 19. Qual a diferença entre um Stateful e Stateless widget?
+
+Um Stateful Widget é usado quando uma pagina **vai** ter updates constantes na tela.
+
+Um Stateles Widget é usado quando uma pagina **não vai** ter updates constantes.
+
