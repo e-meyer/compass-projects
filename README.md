@@ -62,3 +62,6 @@ São os métodos PUT e POST, a diferença é feita mais por convenção, o prime
 
 O Status 201 indica que o resultado de uma POST request foi aceito e os dados foram criados no banco de dados.  
 
+### 12. Quais são os três status code que modem ser utilizados para realizar o delete? 
+
+Os status são 200, 202 e 204.
