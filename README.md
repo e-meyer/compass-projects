@@ -97,3 +97,6 @@ Um Stateful Widget é usado quando uma pagina **vai** ter updates constantes na 
 
 Um Stateles Widget é usado quando uma pagina **não vai** ter updates constantes.
 
+### 20. Para que serve o conceito de gerenciamento de estado e como ele pode ser aplicado na prática?
+
+Diretamente relacionado à pergunta anterior, o foco do gerenciamento de estado é dizer ao Flutter como se remodular para fazer as alterações necessárias em tela. Para fazê-lo, normalmente é usado o ```setState()```, que é onde é dito o que deve acontecer de diferente nessa tela.
