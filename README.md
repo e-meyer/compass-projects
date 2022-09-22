@@ -27,3 +27,7 @@ Depois de distribuídas as funções, entramos no ciclo do Scrum:
 ### 3. O que é Git?
 
 Git é um sistema de controle de versões, onde se pode acessar versões antigas de projetos, fazer alterações, trabalhar em conjunto com outras pessoas, o que em um ambiente de desenvolvimento é muito útil.
+
+### 4. O que é um scrum Product Owner?
+
+É o representante do cliente no time. Orienta a equipe na direção de como tem a visão do produto. Também é responsável pelo backlog do produto, priorizando o que é mais importante para o cliente naquele momento e tira dúvidas dos desenvolvedores.
