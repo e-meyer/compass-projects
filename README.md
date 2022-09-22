@@ -57,3 +57,8 @@ Git é um software de controle de versões, com diversos comandos para versionar
 ### 10. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles.
 
 São os métodos PUT e POST, a diferença é feita mais por convenção, o primeiro para alterar e o segundo para incluir. Já pela documentação oficial, é observado que o PUT é usado mais para criar ou editar algo, já o POST pode ser usado para qualquer coisa na aplicação.
+
+### 11. Qual o status code que pode ser usado na criação de um novo usuário? 
+
+O Status 201 indica que o resultado de uma POST request foi aceito e os dados foram criados no banco de dados.  
+
