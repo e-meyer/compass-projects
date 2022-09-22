@@ -46,7 +46,7 @@ Para adicionar arquivos ao index, usa-se ```git add```
 
 ### 8. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?
 
-Para atualizar o repositório local, usa-se ```git push```.
+Para atualizar o repositório local, usa-se ```git pull```.
 
 Para fazer merge de outro branch com o branch ativo, vá-se ao branch que quer manter e executa ```git merge <nome da branch que quer juntar>```
 
