@@ -69,3 +69,8 @@ Os status são 200, 202 e 204.
 ### 13. Exemplifique para que servem os metódos HTTP 1xx, 2xx, 3xx, 4xx e 5xx de uma forma geral
 
 São disparadas quando há uma requisição do cliente para o servidor. O desenvolvedor, então, pode lidar com esses status codes da maneira que preferir, por exemplo quando ocorre um erro do servidor ou cliente, redirecionamento, sucesso na requisição ou somente uma dar uma resposta.
+
+### 14. O que é a linguagem de programação Dart?
+
+Linguagem de programação multiplataforma, criada inicialmente pela Google com a intenção de substituir o JavaScript. Suas semelhanças são grandes. É uma linguagem orientada a objetos.
+
