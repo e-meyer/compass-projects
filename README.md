@@ -81,3 +81,7 @@ Um toolkit, criado também pela Google, que usa Dart como linguagem. É normalme
 ### 16. Como inicio um novo projeto com Flutter?
 
 Vá-se ao terminal, em um local desejado onde deseja criar o projeto e é executado o comando ```flutter create <nome do projeto>```
+
+### 17. Quais ferramentas podemos utilizar para criação de novos apps usando Flutter?
+
+No terminal do sistema operacional, através de algumas IDEs como IntelliJ, VSCode, entre outras.
