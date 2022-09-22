@@ -49,3 +49,7 @@ Para adicionar arquivos ao index, usa-se ```git add```
 Para atualizar o repositório local, usa-se ```git push```.
 
 Para fazer merge de outro branch com o branch ativo, vá-se ao branch que quer manter e executa ```git merge <nome da branch que quer juntar>```
+
+### 9. Qual a diferença entre git e github?
+
+Git é um software de controle de versões, com diversos comandos para versionar o software. O GitHub é como uma plataforma que hospeda os arquivos administrados pelo Git.
