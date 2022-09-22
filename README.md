@@ -35,3 +35,7 @@ Git é um sistema de controle de versões, onde se pode acessar versões antigas
 ### 5. Qual o comando para criação de um novo repositório no Git?
 
 Para iniciar um novo repositório, usa-se ```git init```
+
+### 6. Com o Git você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? 
+
+Para adicionar arquivos ao index, usa-se ```git add```
