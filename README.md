@@ -85,3 +85,8 @@ Vá-se ao terminal, em um local desejado onde deseja criar o projeto e é execut
 ### 17. Quais ferramentas podemos utilizar para criação de novos apps usando Flutter?
 
 No terminal do sistema operacional, através de algumas IDEs como IntelliJ, VSCode, entre outras.
+
+### 18. Qual a diferença entre uma variavel final e uma variavel var?
+
+Uma variável ```final``` não é realmente um tipo de dado, ela só identifica que a variável, quando assumir algum valor, este não poderá mais ser alterado até o final da execução. 
+Já uma o tipo ```var```, podemos dizer que é uma variável de qualquer tipo de dado, seja int, string, double, etc.
