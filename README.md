@@ -39,3 +39,7 @@ Para iniciar um novo repositório, usa-se ```git init```
 ### 6. Com o Git você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? 
 
 Para adicionar arquivos ao index, usa-se ```git add```
+
+### 7. O que é a Branch master e para que serve? 
+
+É a branch principal do software, a que tem a versão final e de lançamento dele.
