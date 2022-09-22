@@ -43,3 +43,9 @@ Para adicionar arquivos ao index, usa-se ```git add```
 ### 7. O que é a Branch master e para que serve? 
 
 É a branch principal do software, a que tem a versão final e de lançamento dele.
+
+### 8. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?
+
+Para atualizar o repositório local, usa-se ```git push```.
+
+Para fazer merge de outro branch com o branch ativo, vá-se ao branch que quer manter e executa ```git merge <nome da branch que quer juntar>```
