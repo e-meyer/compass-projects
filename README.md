@@ -106,3 +106,7 @@ Diretamente relacionado à pergunta anterior, o foco do gerenciamento de estado 
 ```initState``` é chamado somente uma vez, obviamente em um Stateful Widget, quando o objeto é inserido na árvore de widgets. 
 
 ```dispose``` está normalmente atrelado à liberar espaço na memória previamente alocada quando um objeto, variável, etc com estado é removido. É chamado automaticamente se não está definido no escopo.
+
+### 22. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @Flutter-set.22 e quais suas expectativas a partir de agora:
+
+Em questão de aprendizado, acho que tive bastante exposição ao framework nessas duas semanas inciais, podendo desenvolver projetos simples à parte do curriculo. De expectativas, acho que alguns desafios que requerem uma preparação para desenvolvê-los e que, possivelmente, necessitem trabalhar em equipe.
