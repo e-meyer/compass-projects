@@ -77,3 +77,7 @@ Linguagem de programação multi-plataforma, criada inicialmente pela Google com
 ### 15. O que é o Flutter?
 
 Um toolkit, criado também pela Google, que usa Dart como linguagem. É normalmente e amplamente usado para desenvolvimento mobile multi-plataforma, embora também seja possível desenvolver aplicações para Web e Desktop.
+
+### 16. Como inicio um novo projeto com Flutter?
+
+Vá-se ao terminal, em um local desejado onde deseja criar o projeto e é executado o comando ```flutter create <nome do projeto>```
