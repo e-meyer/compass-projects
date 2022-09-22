@@ -6,7 +6,7 @@ Para gerenciar melhor projetos complexos, que poderão sofrer modificações, al
 
 ### 2. Como funciona o método Scrum?
 
-São designadas funções para os envolvidos no projeto:
+Primeiro, são designadas funções para os envolvidos no projeto:
 
 -   Product Owner (PO): é o representante do cliente no time. Orienta a equipe na direção de como tem a visão do produto.
 -   Scrum Master (SM): busca organizar e facilitar a comunicação e convívio da equipe, orientando-os quando necessário.
@@ -23,3 +23,7 @@ Depois de distribuídas as funções, entramos no ciclo do Scrum:
         - Se teve algum impedimento
 4. Análise de sprint: no final da sprint, é visto o que foi desenvolvido durante aquele tempo. São trazidos de volta os itens do backlog vistos anteriormente para checar o que foi concluído, deixando o cliente decidir o que vai e o que não vai lançar no produto final.
 5. Retrospectiva de sprint: momento em que se reúnem para uma discussão do que deu certo e o que não deu naquela sprint, vendo no que se pode melhorar.
+
+### 3. O que é Git?
+
+Git é um sistema de controle de versões, onde se pode acessar versões antigas de projetos, fazer alterações, trabalhar em conjunto com outras pessoas, o que em um ambiente de desenvolvimento é muito útil.
