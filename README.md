@@ -53,3 +53,7 @@ Para fazer merge de outro branch com o branch ativo, vá-se ao branch que quer m
 ### 9. Qual a diferença entre git e github?
 
 Git é um software de controle de versões, com diversos comandos para versionar o software. O GitHub é como uma plataforma que hospeda os arquivos administrados pelo Git.
+
+### 10. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles.
+
+São os métodos PUT e POST, a diferença é feita mais por convenção, o primeiro para alterar e o segundo para incluir. Já pela documentação oficial, é observado que o PUT é usado mais para criar ou editar algo, já o POST pode ser usado para qualquer coisa na aplicação.
