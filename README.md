@@ -31,3 +31,7 @@ Git é um sistema de controle de versões, onde se pode acessar versões antigas
 ### 4. O que é um scrum Product Owner?
 
 É o representante do cliente no time. Orienta a equipe na direção de como tem a visão do produto. Também é responsável pelo backlog do produto, priorizando o que é mais importante para o cliente naquele momento e tira dúvidas dos desenvolvedores.
+
+### 5. Qual o comando para criação de um novo repositório no Git?
+
+Para iniciar um novo repositório, usa-se ```git init```
