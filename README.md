@@ -72,5 +72,8 @@ São disparadas quando há uma requisição do cliente para o servidor. O desenv
 
 ### 14. O que é a linguagem de programação Dart?
 
-Linguagem de programação multiplataforma, criada inicialmente pela Google com a intenção de substituir o JavaScript. Suas semelhanças são grandes. É uma linguagem orientada a objetos.
+Linguagem de programação multi-plataforma, criada inicialmente pela Google com a intenção de substituir o JavaScript. Suas semelhanças são grandes. É uma linguagem orientada a objetos.
 
+### 15. O que é o Flutter?
+
+Um toolkit, criado também pela Google, que usa Dart como linguagem. É normalmente e amplamente usado para desenvolvimento mobile multi-plataforma, embora também seja possível desenvolver aplicações para Web e Desktop.
