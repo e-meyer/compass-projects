@@ -100,3 +100,9 @@ Um Stateles Widget é usado quando uma pagina **não vai** ter updates constante
 ### 20. Para que serve o conceito de gerenciamento de estado e como ele pode ser aplicado na prática?
 
 Diretamente relacionado à pergunta anterior, o foco do gerenciamento de estado é dizer ao Flutter como se remodular para fazer as alterações necessárias em tela. Para fazê-lo, normalmente é usado o ```setState()```, que é onde é dito o que deve acontecer de diferente nessa tela.
+
+### 21. Qual a finalidade dos métodos initState e dispose?
+
+```initState``` é chamado somente uma vez, obviamente em um Stateful Widget, quando o objeto é inserido na árvore de widgets. 
+
+```dispose``` está normalmente atrelado à liberar espaço na memória previamente alocada quando um objeto, variável, etc com estado é removido. É chamado automaticamente se não está definido no escopo.
