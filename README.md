@@ -56,7 +56,7 @@ Git é um software de controle de versões, com diversos comandos para versionar
 
 ### 10. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles.
 
-São os métodos PUT e POST, a diferença é feita mais por convenção, o primeiro para alterar e o segundo para incluir. Já pela documentação oficial, é observado que o PUT é usado mais para criar ou editar algo, já o POST pode ser usado para qualquer coisa na aplicação.
+São os métodos PUT e PATCH. Enquanto o método PUT é usado para atualizar todos os dados atuais do recurso de destino, sendo assim, uma atualização _integral_. Já o método PATCH aplica modificações _parciais_ aos recursos do destino, tornando as coisas, às vezes, mais flexíveis, não sendo necessário atualizar os dados integralmente.
 
 ### 11. Qual o status code que pode ser usado na criação de um novo usuário? 
 
